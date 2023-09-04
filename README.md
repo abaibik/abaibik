@@ -21,7 +21,7 @@ My name is *Aleksandra Baibik* and I am a passionate **Frontend Web Developer** 
 
 <br/>
 
-<table style="border-collapse: collapse">
+<table>
  <tr>
   <td>
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
