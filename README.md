@@ -4,7 +4,7 @@ My name is *Aleksandra Baibik* and I am a passionate **Frontend Web Developer** 
 
 📫 How to reach me:
 
- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](http://linkedin.com/in/aleksandra-baibik-08340594) or contact me by [email](abaibik@gmail.com)
+ [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](http://linkedin.com/in/aleksandra-baibik-08340594) or contact me by [email](mailto:abaibik@gmail.com)
 
 <br/>
 
